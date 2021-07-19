@@ -5,5 +5,5 @@ OS system = Termux
 install:
 ```
 $ chmod +x *
-$ ./fedora-installer-iso.sh
+$ bash fedora-installer-iso.sh
 ```
